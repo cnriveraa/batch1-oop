@@ -4,4 +4,4 @@ num2 = int(input("Enter the second number: "))
 if num1 == num2:
     print("Equal")
 else:
-    print9("Not Equal")
+    print("Not Equal")
